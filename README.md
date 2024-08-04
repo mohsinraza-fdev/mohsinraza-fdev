@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi there! I'm Mohsin
 
-<!--
-**mohsinraza-fdev/mohsinraza-fdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer with over 5 years of experience in developing mobile and web applications using Flutter and Dart. I am passionate about creating seamless and user-friendly applications that make a difference.
 
-Here are some ideas to get you started:
+🔧 Expertise:
+- Flutter & Dart
+- Mobile App Development
+- Web App Development
+- UI/UX Design
+- Agile Methodologies
+- Problem-Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Notable Contributions:
+- Recently had a PR approved in the official Flutter repository, addressing a glitch in the autocomplete dropdown.
+
+🚀 I love solving challenging problems and collaborating with the developer community to enhance open-source projects. 
+
+🌱 Always learning and exploring new technologies to stay ahead in the ever-evolving tech world.
+
+📫 Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/mohsinraza-fdev/)
+- Email: mohsinraza413@gmail.com
