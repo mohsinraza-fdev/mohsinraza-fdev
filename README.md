@@ -11,7 +11,7 @@
 - Problem-Solving
 
 🌟 Notable Contributions:
-- Recently had a PR approved in the official Flutter repository, addressing a glitch in the autocomplete dropdown.
+- Recently had a PR (https://github.com/flutter/flutter/pull/150776) approved in the official Flutter repository, addressing a glitch in the autocomplete dropdown.
 
 🚀 I love solving challenging problems and collaborating with the developer community to enhance open-source projects. 
 
