@@ -19,4 +19,4 @@
 
 📫 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/mohsinraza-fdev/)
-- Email: mohsinraza413@gmail.com
+- mohsinraza413@gmail.com
