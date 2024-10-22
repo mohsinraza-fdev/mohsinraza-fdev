@@ -1,6 +1,6 @@
 👋 Hi there! I'm Mohsin
 
-💻 Software Engineer with over 4 years of experience in developing mobile and web applications using Flutter and Dart. I am passionate about creating seamless and user-friendly applications that make a difference.
+💻 I'm a passionate software engineer who enjoys creating smooth, user-friendly mobile and web applications. While I work with a variety of tools and technologies, I often lean on Flutter and Dart to build efficient, high-quality solutions that make a real difference for users.
 
 🔧 Expertise:
 - Flutter & Dart
